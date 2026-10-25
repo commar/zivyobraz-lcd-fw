@@ -1,4 +1,4 @@
-# Živý obraz LCD firmware (ESP32 + ST7789)
+# Živý obraz LCD firmware (ESP32 + ST7789 + ST7796)
 
 Firmware pro ESP32 (Arduino / PlatformIO), který se periodicky připojuje k serveru Živý obraz, stahuje obrazová data a vykresluje je na TFT displej ST7789. Projekt obsahuje i lokální webové rozhraní pro konfiguraci, stav zařízení a náhled posledního framebufferu.
 
