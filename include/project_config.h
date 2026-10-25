@@ -20,6 +20,7 @@ enum class DisplayType : uint8_t {
   St7789,
   SharpMip,
   Ili9488,
+  St7796s,
   Unknown,
 };
 
